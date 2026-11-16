@@ -1,0 +1,2 @@
+Sobre mí
+Me gusta aprender cosas nuevas relacionadas con la tecnología y la informática. Me interesa descubrir cómo funcionan los programas y las aplicaciones. También disfruto trabajando en equipo y compartiendo ideas con otras personas. Me gustaría mejorar mis conocimientos de programación y aprender a desarrollar proyectos propios.
