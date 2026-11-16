@@ -7,3 +7,7 @@ Tres cosas que quiero aprender en esta asignatura
 Aprender a utilizar Git y GitHub.
 Trabajar con repositorios, ramas y commits.
 Colaborar con otras personas en proyectos de programación.
+
+Mis proyectos
+Mi primer portafolio: repositorio donde estoy aprendiendo a utilizar GitHub.
+Mi primer script: pequeño programa en PowerShell que muestra información del ordenador.
